@@ -24,3 +24,4 @@ The Library Management System is planned as a centralized system for managing li
 ## Current Status
 
 This repository currently contains the initial project structure created for the Software Engineering configuration management laboratory.
+
