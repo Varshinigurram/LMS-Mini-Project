@@ -29,10 +29,6 @@ This repository is created as part of the Software Engineering laboratory to pra
 
 This repository is used for demonstrating Git and GitHub configuration management activities.
 
-## UI Planning
-
-The future LMS interface will provide simple navigation for students, librarians, and administrators.
-
 ## Project Status
 
-Initial LMS project configuration is complete and the interface is planned for future development.
+Initial LMS project configuration is complete, and interface planning has started for students, librarians, and administrators.
